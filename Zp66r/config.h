@@ -17,4 +17,4 @@
 
 
 
-#define TAP_CODE_DELAY 5
+#define TAP_CODE_DELAY 10
